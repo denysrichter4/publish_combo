@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.denysrichter4.publishcombo.listeners
 
 import com.intellij.ide.FrameStateListener
 import com.intellij.openapi.diagnostic.thisLogger
